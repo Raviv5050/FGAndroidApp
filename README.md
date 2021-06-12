@@ -29,7 +29,8 @@ https://youtu.be/L7Bb8yZS0XY
 In this project we focused on MVC (Model, View, Controller), that could be seen a lot throughout the code.
 We created a View ("index.html" and it's design "style.css". This view have a controller- "expServer.js" and Model- "anomalyHandler.js" of it's own.
 
-![UML](https://imgur.com/8tnmBS3.png)
+
+![UML](https://imgur.com/NPSxlAi.png)
 
 ## Running this project on a brand new machine:
 
