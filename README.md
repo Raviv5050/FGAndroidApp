@@ -11,7 +11,9 @@ An Android remote control application that interfaces with the Flight Gear simul
 Project Description
 -
 In this project, we worked on several features:
-- We created an Android remote control application that allows the user to enter the IP and port address, and by pressing on the "LET'S GO" button the user can start controlling the airplain in the Flight Gear simulator.
+- We created an Android remote control application that allows the user to enter the IP and port address, and by pressing on the "LET'S GO" button the user connect to the IP where the flight simulator is running (and to the port that the simulator listens), so he can start controlling the airplain in the Flight Gear simulator.
+- The app has two SeekBars, one for the Throttle and the second for the Rudder. The app also has a virtual joystick that communicates with the simulator.
+  The X-axis determines the value of the Elevator and the Y-axis determines the value of the Aileron of the airplain in the Flight Gear simulator.
 
 
 - A YouTube clip that explains our work: 
@@ -19,10 +21,13 @@ In this project, we worked on several features:
 https://youtu.be/L7Bb8yZS0XY
 
 
+
 ## Requirements:
 
-- Node.js is necessary in order to run the the project [(download link)](https://nodejs.org/en/).
-- After installation, run the server and start investigate the anomalies.
+- Flight Gear simulator is necessary in order to run and play the simulation [(download link)](https://www.flightgear.org/download/).
+- Android Studio is also necessary in order to run the project [(download link)](https://developer.android.com/studio).
+- Of course another option to run our remote is to download the software to your personal mobile device.
+- After installation, run the application, connect to the IP where the flight simulator is running and to the port that the simulator listens, and just start and start flying your plane.
 
 ## Project structure:
 
