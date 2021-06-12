@@ -43,25 +43,23 @@ So we can see that the View involves to the ViewModel by using Data Binding, whi
 
 ## Running this project on a brand new machine:
 
-- Install Node.js (as mentioned above).
+- Install Flight Gear simulator and Android Studio (as mentioned above).
 
 ### Running
 
 - Clone out repo using git clone
-- To run the server side run the following commands:
+- To run our remote app write the following commands in the Settings tab -> Additional Settings" in the flight simulator- FlightGear:
 
->    cd FlightInspectionWebApp/Controller
+>    --telnet = socket, in, 10,127.0.0.1,6400, tcp
 
->    node ./expserver.js
-
-- Go into localhost:8080
-- Upload the training csv file and test csv file to the website and click submit.
-- Enjoy!
+- Go into the Android Studio and run the app.
+- Connect to the IP where the flight simulator is running and to the port that the simulator listens and click the  "LET'S GO" button.
+- take a flight and Enjoy!
 
 
 ## Future improvements:
 
 As we continue to work on this app, we encourage anyone that wants to help out to do so!
-Just open the project in Visual Studio Code and add your own touches!
+Just open the project in Android Studio and add your own touches!
 Other than that, we would appreciate if you would try to stick to our design language and patterns.
 Have fun with this project and don't forget to create a pull request once you're done so this project could have a little bit of YOU in it!
