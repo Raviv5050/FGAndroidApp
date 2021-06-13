@@ -67,6 +67,7 @@ public class FGPlayer {
     }
 
 
+    /**
     public void doSomething() throws InterruptedException {
         dispatchQueue.put(new Runnable() {
                               @Override
@@ -78,9 +79,10 @@ public class FGPlayer {
                           }
         );
     }
+     **/
 
 
-    /**
+
     public void doSomething() throws InterruptedException {
         dispatchQueue.put(new Runnable() {
                               @Override
@@ -94,6 +96,7 @@ public class FGPlayer {
                           }
         );
     }
+
 
     public void setAileron(double a)
     {
@@ -118,7 +121,7 @@ public class FGPlayer {
         throttle = t;
         Log.i("setThrottle","throttle: " + throttle);
     }
-     **/
+
 
 
     public void setValue(double v)

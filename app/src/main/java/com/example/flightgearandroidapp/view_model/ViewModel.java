@@ -21,7 +21,7 @@ public class ViewModel {
     }
 
 
-    /**
+
     public void setAileron(double a)
     {
         aileron = a;
@@ -69,11 +69,11 @@ public class ViewModel {
         }
         Log.i("setThrottle","throttle: " + throttle);
     }
-     **/
 
 
 
 
+/**
     public void setAileron(double a)
     {
         aileron = a;
@@ -121,6 +121,7 @@ public class ViewModel {
 
         }
     }
+ **/
 
 
 
