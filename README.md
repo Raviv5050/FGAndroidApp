@@ -14,7 +14,7 @@ Project Description
 In this project, we worked on several features:
 - We created an Android remote control application that allows the user to enter the IP and port address, and by pressing on the "LET'S GO" button the user connect to the IP where the flight simulator is running (and to the port that the simulator listens), so he can start controlling the airplain in the Flight Gear simulator.
 - The app has two SeekBars, one for the Throttle and the second for the Rudder. The app also has a virtual joystick that communicates with the simulator.
-  The X-axis determines the value of the Elevator and the Y-axis determines the value of the Aileron of the airplain in the Flight Gear simulator.
+  The X-axis determines the value of the Elevator and the Y-axis determines the value of the Aileron of the airplane in the Flight Gear simulator.
 
 
 - A YouTube clip that explains our work: 
