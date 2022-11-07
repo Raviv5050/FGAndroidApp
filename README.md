@@ -6,7 +6,9 @@ An Android remote control application that interfaces with the Flight Gear simul
 - Raviv Haham
 - Peleg Haham
 
-![UML](https://imgur.com/WyUWqqz.png)
+
+![UML](https://imgur.com/14cQTm7.png)
+
 
 
 Project Description
@@ -15,7 +17,8 @@ In this project, we worked on several features:
 - We created an Android remote control application that allows the user to enter the IP and port address, and by pressing on the "LET'S GO" button the user connect to the IP where the flight simulator is running (and to the port that the simulator listens), so he can start controlling the airplain in the Flight Gear simulator.
 - The app has two SeekBars, one for the Throttle and the second for the Rudder. The app also has a virtual joystick that communicates with the simulator.
   The X-axis determines the value of the Elevator and the Y-axis determines the value of the Aileron of the airplane in the Flight Gear simulator.
-
+  
+![UML](https://imgur.com/ysWjfTw.png)
 
 
 - A YouTube clip that explains our work: 
@@ -59,6 +62,7 @@ So we can see that the View involves to the ViewModel by using Data Binding, whi
 - Connect to the IP where the flight simulator is running and to the port that the simulator listens and click the  "LET'S GO" button.
 - take a flight and Enjoy!
 
+![UML](https://imgur.com/WyUWqqz.png)
 
 ## Future improvements:
 
