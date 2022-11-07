@@ -1,4 +1,4 @@
-# FlightGearAndroidApp
+# Flight Gear Android App
 An Android remote control application that interfaces with the Flight Gear simulator 
 
 
