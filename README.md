@@ -18,15 +18,14 @@ In this project, we worked on several features:
 - The app has two SeekBars, one for the Throttle and the second for the Rudder. The app also has a virtual joystick that communicates with the simulator.
   The X-axis determines the value of the Elevator and the Y-axis determines the value of the Aileron of the airplane in the Flight Gear simulator.
   
-![UML](https://imgur.com/ysWjfTw.png)
-
 
 - A YouTube clip that explains our work: 
 
    https://youtu.be/Ub19cbKgylQ
 
+-
 
-
+![UML](https://imgur.com/ysWjfTw.png)
 
 ## Requirements:
 
