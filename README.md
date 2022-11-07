@@ -6,7 +6,7 @@ An Android remote control application that interfaces with the Flight Gear simul
 - Raviv Haham
 - Peleg Haham
 
-
+![UML](https://imgur.com/WyUWqqz.png)
 
 
 Project Description
